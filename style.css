@@ -1,0 +1,20 @@
+ul{
+    list-style-type: none;
+
+}
+li:first-child{
+    width: 600;
+}
+li{
+    display: inline-block;
+    width: 400px;
+}
+h4{
+    display: inline-block;
+    position: relative;
+    left: 50px;
+}
+.header{
+    position: relative;
+    left: 450px;
+}
